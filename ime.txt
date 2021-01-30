@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Промяна с tortoise.
+=======
+
+Промяна с Bash twetwtew
+
+Промяна с tortoise
+
+>>>>>>> fb35cf6302fa8b248b667fb3671c883c49e084fa
