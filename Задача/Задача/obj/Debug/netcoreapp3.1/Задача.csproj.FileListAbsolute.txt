@@ -1,0 +1,12 @@
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.AssemblyInfoInputs.cache
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.AssemblyInfo.cs
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.csproj.CoreCompileInputs.cache
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.exe
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.deps.json
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.runtimeconfig.json
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.runtimeconfig.dev.json
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.dll
+C:\Users\Gyorken\source\repos\Задача\Задача\bin\Debug\netcoreapp3.1\Задача.pdb
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.dll
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.pdb
+C:\Users\Gyorken\source\repos\Задача\Задача\obj\Debug\netcoreapp3.1\Задача.genruntimeconfig.cache
